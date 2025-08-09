@@ -1,2 +1,2 @@
-idf_component_register(SRCS "node.c"
+idf_component_register(SRCS "scan.c"
                     INCLUDE_DIRS ".")
