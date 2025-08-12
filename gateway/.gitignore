@@ -1,0 +1,11 @@
+# Ignore ESP-IDF build output
+build/
+
+# Project-specific config backup
+sdkconfig.old
+
+# Other temporary files
+*.log
+*.tmp
+*.bak
+*.swp
